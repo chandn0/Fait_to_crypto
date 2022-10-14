@@ -9,6 +9,6 @@ Frontend is build using react.
 
 This application runs enterly on blockchain .
 
-The smar contract is meta transcuation enabled so the users with nocrypto can use the application.
+The smar contract is meta transaction enabled so the users with nocrypto can use the application.
 
-Meta transcuation are enabled by using https://biconomy.io and EIP721 standards.
+Meta transaction are enabled by using https://biconomy.io and EIP721 standards.
